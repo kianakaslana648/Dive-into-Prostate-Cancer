@@ -1,6 +1,6 @@
 # Dive into Prostate Cancer: 
 # Influence of Gene Expression Levels on Clinical Diagnosis Results
-Minglei Cai, Qixuan Guo, Zhonghao Xue
+$\quad$ Minglei Cai, Qixuan Guo, Zhonghao Xue
 
 ## Team Course Project of ANLY512(Statistical Learning) at Georgetown University
 
