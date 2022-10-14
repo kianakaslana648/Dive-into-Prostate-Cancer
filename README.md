@@ -14,4 +14,4 @@ Recently, genomic methodologies have been used to discover consistent gene expre
 Given detailed information of 6033 related gene expression levels and clinical diagnosis results of 102 patients, we tried to build a model which could predict
 the diagnosis result from the gene expression levels and find the genes which are the most correlated ones to the diagnosis result.
 
-Further information in the poster and codes.
+$\textbf{Further details in the poster.}$
